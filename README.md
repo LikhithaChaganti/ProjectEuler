@@ -1,2 +1,2 @@
 # ProjectEuler
-Solutions to https://projecteuler.net/archives in Python
+Solutions to https://projecteuler.net/archives that I implemented in Python
